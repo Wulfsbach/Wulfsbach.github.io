@@ -1,0 +1,26 @@
+
+.navbar {
+    margin-bottom:0;
+    border-radius:0;
+    border-style:solid;
+    border-color:#cccccc;
+}
+
+.page-header {
+    position:relative;
+    top:15px;
+
+}
+ #head {
+     text-align:left;
+     margin:0;
+     padding:0;
+ }
+ body { 
+    padding-top: 75px; 
+}
+
+.navbar-text{
+    text-align: center;
+    float:none;
+}
